@@ -18,7 +18,7 @@
     "@vscode/markdown-it-katex": "^1.1.1",
     "autoprefixer": "^10.4.20",
     "daisyui": "^4.12.14",
-    "highlight.js": "^11.10.0",
+    "highlight.js": "^11.11.1",
     "katex": "^0.16.15",
     "markdown-it": "^14.1.0",
     "postcss": "^8.4.49",
